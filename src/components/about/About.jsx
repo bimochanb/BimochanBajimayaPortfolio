@@ -43,7 +43,7 @@ const About = () => {
                         </article>
                     </div>
 
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, aliquam magnam. Quidem eveniet cum eius dolores, culpa iusto nisi facere beatae harum reprehenderit, nesciunt reiciendis hic omnis ipsam dolorem exercitationem?</p>
+                    <p>Discover the digital wizardry of Bimochan Bajimaya, a full stack developer weaving magic into every line of code. With a knack for both front-end flair and back-end brilliance, Bimochan crafts user-friendly websites and powerful web applications. Dive into a world where simplicity meets sophistication, led by Bimochan's passion for creating digital experiences that dazzle and delight.</p>
                     <a href="#contact" className='btn btn-primary'>Let's talk</a>
                 </div>
             </div>

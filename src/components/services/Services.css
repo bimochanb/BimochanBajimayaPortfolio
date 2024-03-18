@@ -52,7 +52,7 @@
 
 /* Medium Devices */
 @media screen and (max-width: 1024px) {
-    .service__container {
+    .services__container {
         gap: 2rem;
         grid-template-columns: 1fr 1fr;
     }
@@ -63,8 +63,8 @@
 }
 
 /* Small Device */
-@media screen and (man-width:600px) {
-    .service__container {
+@media screen and (max-width:600px) {
+    .services__container {
         gap: 1.5rem;
         grid-template-columns: 1fr;
     }
