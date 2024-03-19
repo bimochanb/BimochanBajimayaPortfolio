@@ -33,15 +33,16 @@ const Footer = () => {
             </ul>
 
             <div className="footer__socials">
-                <a href="https://facebook.com/bimochanb"><FaFacebookF /></a>
+                <a href="https://www.facebook.com/bimochanb37"><FaFacebookF /></a>
                 <a href="https://instagram.com/bimo_as_337"><FiInstagram /></a>
-                <a href="https://linkedin.com/bimochan07"><FaLinkedinIn /></a>
+                <a href="https://www.linkedin.com/in/bimochan-bajimaya-861b48158/"><FaLinkedinIn /></a>
+                <a href="https://github.com/BimoChan07"><FaGithub /></a>
             </div>
 
             <div className="footer__copyright">
                 <small>&copy; Bimochan Bajimaya. All rights reserved</small>
             </div>
-        </footer>
+        </footer >
     );
 }
 
