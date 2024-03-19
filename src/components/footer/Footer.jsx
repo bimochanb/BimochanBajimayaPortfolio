@@ -7,7 +7,7 @@ import { FaLinkedinIn } from "react-icons/fa6";
 const Footer = () => {
     return (
         <footer>
-            <a href="#" className='footer__logo'>BB</a>
+            <a href="#" className='footer__logo'>Bimochan Bajimaya</a>
             <ul className='permalinks'>
                 <li>
                     <a href="#">Home</a>

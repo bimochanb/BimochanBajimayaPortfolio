@@ -34,7 +34,7 @@ const data = [
         title: "Nepal Life Capital",
         image: IMG4,
         description: "NLC",
-        github: "/project2"
+        github: "https://github.com/bimochanb/Nepal-Life-Insurance-Frontend"
     },
     {
         id: 5,

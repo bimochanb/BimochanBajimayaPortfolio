@@ -14,25 +14,26 @@ import 'swiper/css/pagination';
 
 const data = [
     {
+        avatar: AVTR1,
+        name: 'Alisha BB Shrestha',
+        review: 'My love for you knows no bounds. You fill my life with joy and laughter every day. Forever grateful for your presence in my life.'
+    },
+    {
         avatar: AVTR2,
         name: 'Roshan Neupane',
-        review: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi assumenda impedit ipsum ad inventore aliquam ex, error maiores cum sequi?'
+        review: 'Amazing service! Quick and efficient. Highly recommended!'
     },
 
     {
         avatar: AVTR3,
         name: 'Nischal Dahal',
-        review: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi assumenda impedit ipsum ad inventore aliquam ex, error maiores cum sequi?'
+        review: 'Amazing service! Quick and efficient. Highly recommended!'
     },
-    {
-        avatar: AVTR1,
-        name: 'Alisha BB Shrestha',
-        review: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi assumenda impedit ipsum ad inventore aliquam ex, error maiores cum sequi?'
-    },
+
     {
         avatar: AVTR4,
         name: 'Subash Rai',
-        review: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi assumenda impedit ipsum ad inventore aliquam ex, error maiores cum sequi?'
+        review: 'Amazing service! Quick and efficient.'
     },
 ]
 
